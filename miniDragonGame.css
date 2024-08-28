@@ -73,8 +73,8 @@ button {
 
   #game {
    margin: auto, 10px;
-    min-width: 85%;
-    max-width: 90%;
+    min-width: 90%;
+    max-width: 95%;
     max-height: 50vh; /* Further reduce height */
     padding: 5px; /* Adjust padding for smaller screens */
   }
